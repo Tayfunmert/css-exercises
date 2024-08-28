@@ -1,0 +1,23 @@
+.number1and5{
+    background-color: pink;
+    font-size: 20px;
+    color: black;
+}
+
+#number2{
+color: blue;
+font-size: 50px;
+}
+
+.number3{
+background-color: pink;
+font-size: 40px;
+color: black;
+}
+
+#number4{
+background-color: lightgreen;
+font-size: 40px;
+font-weight: bold;
+color: black;
+}
